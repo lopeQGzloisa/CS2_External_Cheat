@@ -1,0 +1,5 @@
+keyboard
+pymem
+pynput
+pywin32
+jkspms
